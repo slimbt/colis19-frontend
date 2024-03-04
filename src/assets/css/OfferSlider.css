@@ -1,0 +1,18 @@
+.slider-style {
+    width: 85%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section-title {
+    color: #1c2237;
+    margin: 50px 0px;
+}
+
+.prev{
+    display: block;
+    height: 20px;
+    width: 20px;
+    background: url('../../bg01.png') no-repeat;
+  }
